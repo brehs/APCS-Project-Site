@@ -24,6 +24,12 @@ header nav ul li{
     clear: both
 }
 
+#projects {
+    margin: 0 auto; /* centers projects div */
+    width: 90%; /* adds space on either side*/
+    max-width: 600px; /*keeps div from getting too wide*/
+}
+
 .project {
     margin-bottom: 20px;
     border-bottom: 1px solid rgb(0, 174, 255)
