@@ -3,13 +3,13 @@ body {
 }
 
 a {
-    color: rgb(255, 81, 0)
+    color: rgb(174, 198, 150)
 }
 
 header {
     margin-bottom: 20px;
     padding: 20px;
-    border-bottom: 1px solid rgb(0, 146, 255)
+    border-bottom: 1px solid rgb(174, 198, 207)
 }
 
 header h1 {
@@ -32,7 +32,7 @@ header nav ul li{
 
 .project {
     margin-bottom: 20px;
-    border-bottom: 1px solid rgb(0, 174, 255)
+    border-bottom: 1px solid rgb(174, 198, 207)
 
 }
 
